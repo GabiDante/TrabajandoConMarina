@@ -7,3 +7,5 @@ const elPerro = {
 console.log(elPerro)
 
 module.exports(elPerro)
+
+console.log ("hola mundo");
